@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="60"
+   height="60"
+   viewBox="0 0 60 60"
+   version="1.1"
+   id="svg13"
+   sodipodi:docname="circle.svg"
+   inkscape:version="0.92.1 r15371">
+  <metadata
+     id="metadata17">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     id="namedview15"
+     showgrid="false"
+     inkscape:zoom="3.9333333"
+     inkscape:cx="30"
+     inkscape:cy="30"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg13" />
+  <defs
+     id="defs9">
+    <style
+       id="style2">
+      .cls-1 {
+        fill: none;
+        stroke-width: 10px;
+        opacity: 0.9;
+        stroke: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient
+       id="linear-gradient"
+       y1="30"
+       x2="60"
+       y2="30"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.77118644,0,0,0.77118644,6.9915251,7.2457624)">
+      <stop
+         offset="0"
+         stop-color="#cb2d3e"
+         id="stop4" />
+      <stop
+         offset="1"
+         stop-color="#ef473a"
+         id="stop6" />
+    </linearGradient>
+  </defs>
+  <circle
+     class="cls-1"
+     cx="30.127121"
+     cy="30.381357"
+     r="23.135593"
+     id="circle11"
+     style="opacity:0.9;fill:none;stroke:url(#linear-gradient);stroke-width:7.71186447px" />
+</svg>

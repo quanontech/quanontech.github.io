@@ -1,0 +1,18 @@
+/* footer scss starts here */
+.footer{
+	background-color: rgb(37,37,37);
+	color: #fff;
+	height: 100%;
+	padding: 3% 0% 0% 0%;
+	& img{
+		width: 30%;
+	}
+	&-2{
+		padding: 1% 0%;
+		background-color: #000;
+		& p{
+			margin: 0%;
+			font-size: 14px;
+		}
+	}
+}

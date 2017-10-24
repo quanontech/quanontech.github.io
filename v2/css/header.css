@@ -1,0 +1,7 @@
+.hero-img {
+  background-image: url(/img/home.jpg);
+  background-size: cover;
+  background-position: top center;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh; }
