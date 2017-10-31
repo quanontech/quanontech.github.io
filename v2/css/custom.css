@@ -78,7 +78,7 @@ body {
   background-color: #363636; }
 
 .hero {
-  background-image: url(/images/hero-img.jpg);
+  background-image: url(../images/hero-img.jpg);
   background-size: cover;
   background-position: top center;
   display: flex;
